@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![](https://github-readme-stats.vercel.app/api?username=klboke&count_private=true&show_icons=true)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kekingcn&repo=kkFileView)](https://github.com/kekingcn/kkFileView)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kekingcn&repo=kkbinlog)](https://github.com/kekingcn/kkbinlog)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kekingcn&repo=quarkus-dubbo-rpc)](https://github.com/kekingcn/quarkus-dubbo-rpc)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kekingcn&repo=quarkus-nacos-config)](https://github.com/kekingcn/quarkus-nacos-config)
