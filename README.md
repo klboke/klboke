@@ -1,5 +1,7 @@
 ### Hi there 👋
-TapTap 的 Infra & Ops 组正在招募志同道合的队员-[《基础中间件工程师》](https://github.com/klboke/klboke/blob/main/jobs.md)，有意向的可与我联系，欢迎你的加入
+心动 TapTap Infra & Ops 组正在招募志同道合的队员-[《基础中间件工程师》](https://github.com/klboke/klboke/blob/main/jobs.md)，有意向可与我联系，欢迎你的加入
+
+关于我司：https://mp.weixin.qq.com/s/YZTmveYCp8NLrIwXpyPQMA
 <!--
 **klboke/klboke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
