@@ -1,26 +1,9 @@
+### 嗨咯 👋
+我是 KL，推崇开源文化，以”KL博主“这个名称活跃于开源社区，码云 GVP 项目 kkFileView 项目作者，Apollo 配置中心项目 PMC ，阿里云 MVP。擅长 Java 中间件、微服务、容器化等技术以及项目管理。
+
+- 关于我 ：https://www.kailing.pub/about-kl/index.html
+- 我的博客：https://www.kailing.pub/
+- 我目前在全力开发推广 [https://github.com/klboke/kkRepo](https://github.com/klboke/kkRepo)：kkRepo 是一个兼容 Nexus 的自托管制品仓库，面向 Maven, npm, PyPI, Go, Helm, Cargo/Rust, Dart/Pub, Docker/OCI, NuGet, RubyGems, Yum, 和 Raw 制品。用于解决 Nexus 社区版本痛点限制问题，支持一键从 Nexus 迁移到 kkRepo 。
+
+
 ### Hi there 👋
-心动 TapTap Infra & Ops 组正在招募志同道合的队员-[《基础中间件工程师》](https://github.com/klboke/klboke/blob/main/jobs.md)，有意向可[与我联系](chenkailing@xd.com)，欢迎你的加入
-
-关于我司：https://mp.weixin.qq.com/s/YZTmveYCp8NLrIwXpyPQMA
-<!--
-**klboke/klboke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-![](https://github-readme-stats.vercel.app/api?username=klboke&count_private=true&show_icons=true)
-### kl's GitHub Project
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kekingcn&repo=kkFileView)](https://github.com/kekingcn/kkFileView)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kekingcn&repo=kkbinlog)](https://github.com/kekingcn/kkbinlog)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kekingcn&repo=quarkus-dubbo-rpc)](https://github.com/kekingcn/quarkus-dubbo-rpc)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kekingcn&repo=quarkus-nacos-config)](https://github.com/kekingcn/quarkus-nacos-config)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kekingcn&repo=quarkus-apollo-config)](https://github.com/kekingcn/quarkus-apollo-config)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kekingcn&repo=quarkus-redis-klock)](https://github.com/kekingcn/quarkus-redis-klock)
